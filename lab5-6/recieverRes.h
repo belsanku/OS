@@ -1,0 +1,3 @@
+#define IDD_DLGTEST 101
+#define IDC_MESSAGE 1001
+#define ID_SEND 1000

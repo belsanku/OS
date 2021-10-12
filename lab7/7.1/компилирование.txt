@@ -1,0 +1,3 @@
+cl /EHsc prog1.cpp user32.lib
+cl.exe /EHsc lib1.cpp /link /DLL /MACHINE:X64 /SUBSYSTEM:WINDOWS
+cl /EHsc /ld lib1.cpp

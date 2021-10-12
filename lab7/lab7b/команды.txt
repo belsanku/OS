@@ -1,0 +1,2 @@
+cl 7b.cpp /EHsc imagehlp.lib
+7b.exe C:\WINDOWS\system32

@@ -1,0 +1,21 @@
+#define IDD_DLGTEST 101
+#define IDC_EDIT1 1000
+#define IDC_EDIT2 1001
+#define IDC_EDIT3 1003
+#define IDC_BTN1 1002
+#define ID_BTNPLUS 993
+#define ID_BTNMINUS 986
+#define ID_BTNMULT 979
+#define ID_BTNDIV 972
+#define ID_CLEAR 965
+
+#define ID_10 10
+#define ID_20 20
+#define ID_3 3
+#define ID_4 4
+#define ID_5 5
+#define ID_6 6
+#define ID_7 7
+#define ID_8 8
+#define ID_9 9
+#define ID_0 0
