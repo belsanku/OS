@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+F:\OS\lab2\ConsoleApplication1\ConsoleApplication1.cpp(68,11): warning C4475:  "wprintf": модификатор длины "l" невозможно использовать с символом поля типа "p" в описателе формата
+F:\OS\lab2\ConsoleApplication1\ConsoleApplication1.cpp(69,11): warning C4475:  "wprintf": модификатор длины "l" невозможно использовать с символом поля типа "p" в описателе формата
+F:\OS\lab2\ConsoleApplication1\ConsoleApplication1.cpp(57,69): warning C4390:  ";": обнаружен пустой контролируемый оператор; это правильно?
+  ConsoleApplication1.vcxproj -> F:\OS\lab2\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
